@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nhlanhla60
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to code and have just started with HTML, I think I enjoy the lessons and research as I progress with my learning to code 
-- 💞️ I’m looking to meet new programmers to learn more
-
+👋 Hi! "I am a seasoned IT professional with a strong focus on Microsoft Products and Services, business applications, and concepts. By leveraging technology, I help businesses overcome their challenges. I embrace change, constantly learning, and growing to improve and innovate. 
+🤖 Developing AI skills is crucial to stay ahead in technology.  
 
 <!---
-nhlanhla60/nhlanhla60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AI is transforming industries and revolutionizing work. ✨ I want to join the journey following developers communities for continuous learning, let's explore this world, it has exciting possibilities! ✨ 
 --->
+- 
