@@ -4,4 +4,3 @@
 <!---
 AI is transforming industries and revolutionizing work. ✨ I want to join the journey following developers communities for continuous learning, let's explore this world, it has exciting possibilities! ✨ 
 --->
-- 
